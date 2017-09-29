@@ -45,7 +45,7 @@ To install follow the steps below:
 To change the color theme of the skin is easy to do...
 Open the skin.ascx and Home.ascx files found in the root of the skin folder 'Bootster'. At the top of the file look for a line with the ID of 'DnnCssThemeInclude' like below:
 
-`<!-- Theme Css File --><dnn:DnnCssInclude ID="DnnCssThemeInclude" runat="server" FilePath="assets/css/themes/grey.css" PathNameAlias="SkinPath" /><!-- Theme Css File -->`
+`<!-- Theme Css File --><dnn:DnnCssInclude ID="DnnCssThemeInclude" runat="server" FilePath="assets/themes/grey.css" PathNameAlias="SkinPath" /><!-- Theme Css File -->`
 
 
 Enjoy!
