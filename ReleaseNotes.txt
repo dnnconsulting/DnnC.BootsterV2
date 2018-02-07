@@ -6,6 +6,14 @@
 <hr/>
 	<h3>About the DnnBootster Theme version 2</h3>
 
+	<h4>Version 02.00.01</h4><br />
+	<ul>
+		<li>Updated Bootstrap from v4.0.0.beta to v4.0.0 stable Bootstrap</li>
+		<li>
+			The theme has been completely re-written to take advantage of ann the new goodness of Bootstrap 4
+		</li>
+	</ul>
+
 	<h4>Version 02.00.00</h4><br />
 	<ul>
 		<li>Updated Bootstrap from v3.3.7 to v4.0.0.beta</li>

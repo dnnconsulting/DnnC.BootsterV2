@@ -189,3 +189,26 @@ body {
         color: #83b836; }
       .dnnbooster .dropdown-menu .dropdown-item:hover, .dnnbooster .dropdown-menu .dropdown-itemfocus {
         background: #333333; } }
+
+.dnnc-mockrup header .container-mockrup {
+  background: rgba(204, 204, 204, 0.4); }
+
+.dnnc-mockrup header span {
+  color: rgba(255, 255, 255, 0.6); }
+
+.dnnc-mockrup header .container-mockrup .lined.thin {
+  border-color: rgba(255, 255, 255, 0.6); }
+
+.dnnc-mockrup footer .container-mockrup {
+  background: rgba(204, 204, 204, 0.4); }
+
+.dnnc-mockrup footer span {
+  color: rgba(255, 255, 255, 0.6); }
+
+.dnnc-mockrup footer .container-mockrup .lined.thin {
+  border-color: rgba(255, 255, 255, 0.6); }
+
+.dnnc-mockrup .container-mockrup {
+  background: rgba(204, 204, 204, 0.1); }
+  .dnnc-mockrup .container-mockrup .lined.thin {
+    border-color: rgba(0, 0, 0, 0.3); }

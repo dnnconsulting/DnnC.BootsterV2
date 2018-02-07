@@ -1,8 +1,8 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="DnnC.Skins.DnnBootster" type="Skin" version="02.00.00">
+    <package name="DnnC.Skins.DnnBootster" type="Skin" version="02.00.01">
       <friendlyName>DnnBootster</friendlyName>
-      <description>A responsive DNN skin using Bootstrap v4.0.0.beta. Requires installation via the Host/Extensions page.</description>
+      <description>A responsive DNN skin using Bootstrap v4.0.0. Requires installation via the Host/Extensions page.</description>
       <owner>
         <name>Geoff Barlow</name>
         <organization>DnnConsulting.net</organization>

@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700");
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css?family=Architects+Daughter|Kalam");
 .color-swatch {
   width: 18%;
   height: 50px;
@@ -766,3 +767,30 @@
     text-align: center; }
   .dnnbooster .to-right {
     text-align: center; } }
+
+.dnnc-mockrup header span {
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 0; }
+
+.dnnc-mockrup header .topbar {
+  height: auto; }
+
+.dnnc-mockrup .container-mockrup {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-family: 'Kalam', cursive; }
+  .dnnc-mockrup .container-mockrup .lined {
+    padding: 10px;
+    display: inline-block;
+    width: 100%; }
+    .dnnc-mockrup .container-mockrup .lined.thin {
+      border: solid 2px; }
+    .dnnc-mockrup .container-mockrup .lined h1 {
+      font-size: 20px;
+      line-height: 22px;
+      margin-bottom: 0;
+      white-space: nowrap; }
+    .dnnc-mockrup .container-mockrup .lined .contentpane p {
+      margin: 0;
+      font-size: 18px; }
